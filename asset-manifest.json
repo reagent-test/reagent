@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reagent/static/css/main.3a1e4bbc.chunk.css",
+    "main.css": "/reagent/static/css/main.550afc8d.chunk.css",
     "main.js": "/reagent/static/js/main.932314f9.chunk.js",
     "main.js.map": "/reagent/static/js/main.932314f9.chunk.js.map",
     "runtime-main.js": "/reagent/static/js/runtime-main.07fae68e.js",
@@ -12,7 +12,7 @@
     "static/js/3.b3433b8c.chunk.js.map": "/reagent/static/js/3.b3433b8c.chunk.js.map",
     "index.html": "/reagent/index.html",
     "static/css/2.039f03c7.chunk.css.map": "/reagent/static/css/2.039f03c7.chunk.css.map",
-    "static/css/main.3a1e4bbc.chunk.css.map": "/reagent/static/css/main.3a1e4bbc.chunk.css.map",
+    "static/css/main.550afc8d.chunk.css.map": "/reagent/static/css/main.550afc8d.chunk.css.map",
     "static/js/2.bf36e3c2.chunk.js.LICENSE.txt": "/reagent/static/js/2.bf36e3c2.chunk.js.LICENSE.txt",
     "static/media/aquaforest.8145a6de.JPG": "/reagent/static/media/aquaforest.8145a6de.JPG",
     "static/media/semantic.min.css": "/reagent/static/media/outline-icons.ddae9b1b.woff",
@@ -54,7 +54,7 @@
     "static/js/runtime-main.07fae68e.js",
     "static/css/2.039f03c7.chunk.css",
     "static/js/2.bf36e3c2.chunk.js",
-    "static/css/main.3a1e4bbc.chunk.css",
+    "static/css/main.550afc8d.chunk.css",
     "static/js/main.932314f9.chunk.js"
   ]
 }
